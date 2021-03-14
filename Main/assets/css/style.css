@@ -3,7 +3,7 @@
 }
 
 /* brand color palette */
-:root {
+:root { /*changed color palette*/
   --primary: rgb(245, 245, 245);
   --secondary: rgb(70, 151, 113);
   --tertiary: rgb(36, 36, 36);
