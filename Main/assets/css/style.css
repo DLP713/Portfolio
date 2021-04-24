@@ -4,11 +4,11 @@
 
 /* brand color palette */
 :root { /*changed color palette*/
-  --primary: rgb(245, 245, 245);
-  --secondary: rgb(70, 151, 113);
-  --tertiary: rgb(36, 36, 36);
+  --primary: rgb(160, 218, 241);
+  --secondary: rgb(238, 208, 250);
+  --tertiary: rgb(10, 10, 10);
   --dark: rgb(48, 48, 48);
-  --light: rgb(18, 70, 52);
+  --light: rgb(7, 30, 61);
 }
 
 body {
@@ -88,14 +88,14 @@ main {
 
 .profile-picture{
 
-  background-image: url("edited profile photo.jpg");
+  /* background-image: url("../images/Headshot_2021.jpg"); */
   width: 5%;
   height: auto;
 }
 
 .hero-banner {
-  background: rgb(29, 80, 44);
-  background-image: url("Portfolio/Main/HoustonSkyline.gif"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background: rgb(104, 104, 103);
+  background-image: url("../images/HoustonSkyline.gif"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -207,7 +207,7 @@ main {
 }
 
 .contact address a {
-  color: var(--tertiary);
+  color: var(--secondary);
   padding: 5px;
   text-decoration: none;
   font-size: 1.3rem;
@@ -223,7 +223,7 @@ main {
 
 .contact address a:hover {
   background-size: 100% 88%;
-  color: var(--secondary);
+  color: var(--tertiary);
 }
 
 /* portfolio project images */
@@ -243,8 +243,8 @@ main {
   background-image: url("../images/02-portfolio-3.jpg");
 }
 
-.surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+.Foodly {
+  background-image: url("../images/foodly_preview.png");
 }
 
 /* end portfolio project images */
