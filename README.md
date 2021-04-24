@@ -7,4 +7,4 @@ Github url:
 https://github.com/DLP713/Portfolio
 
 Website screenshot:
-file:///C:/Users/cesar/Portfolio/Main/Website-Screenshot.png
+file:///C:/Users/cesar/Portfolio/Main/assets/Portfolio_Screenshot.png
