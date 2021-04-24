@@ -1,4 +1,4 @@
-# Portfolio website - will continue to edit throughout the duration of the RiceBootCamp course
+# Portfolio website 
 
 Website: 
 https://dlp713.github.io/Portfolio/ 
