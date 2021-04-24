@@ -1,7 +1,7 @@
 # Portfolio website - will continue to edit throughout the duration of the RiceBootCamp course
 
 Website: 
-file:///C:/Users/cesar/Portfolio/Main/index.html#contact 
+https://dlp713.github.io/Portfolio/ 
 
 Github url:
 https://github.com/DLP713/Portfolio
